@@ -1,0 +1,51 @@
+*{
+    background-color: #7cffbd;
+    border: 1px solid black;
+}
+
+h2 {
+    text-align: center;
+    text-decoration:overline;
+    font-family: 'Fascinate', cursive;
+}
+
+
+#square { 
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 20px;
+    padding: 10px 40px;
+}
+
+.circle {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-color: rosybrown;
+}
+
+
+
+
+/* {
+    background-color: red;
+    color: yellow;
+}
+
+#circle {
+    border: 2px solid black;
+    width: 500px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+.upside, h1{
+    transform: rotate(180deg);
+    font-size: 40px;
+}
+
+ul > li {
+    color: yellow;
+} */
